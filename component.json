@@ -2,8 +2,6 @@
   "name": "font-awesome",
   "repo": "components/font-awesome",
   "description": "Font Awesome, the iconic font designed for use with Twitter Bootstrap.",
-  "version": "3.0.2",
-  "main": "css/font-awesome.css",
   "styles": [
     "css/font-awesome.css"
   ],
