@@ -5,6 +5,13 @@
   "styles": [
     "css/font-awesome.css"
   ],
+  "files": [
+    "font/FontAwesome.otf",
+    "font/fontawesome-webfont.eot",
+    "font/fontawesome-webfont.svg",
+    "font/fontawesome-webfont.ttf",
+    "font/fontawesome-webfont.woff"
+  ],
   "license": [
     "MIT",
     "OFL-1.1"
