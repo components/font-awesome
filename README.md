@@ -7,6 +7,14 @@ The full suite of pictographic icons, examples, and documentation can be found a
 http://fortawesome.github.com/Font-Awesome/
 
 
+Package Managers
+----------------
+
+* [Bower](http://bower.io): `components-font-awesome`
+* [Component](https://github.com/component/component): `components/font-awesome`
+* [Composer](http://packagist.org/packages/components/font-awesome): `components/font-awesome`
+
+
 License
 -------
 
