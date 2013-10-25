@@ -29,7 +29,6 @@
           ],
           "files": [
               "css/font-awesome.min.css",
-              "css/font-awesome-ie7.*",
               "fonts/*"
           ]
       }
