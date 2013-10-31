@@ -1,8 +1,10 @@
+REF = 
+
 default: data
-	@mkdir -p css font scss less
-	@cd $< && git pull
+	@mkdir -p css fonts scss less
+	@cd $< && git remote update && git checkout master && ( git branch -D work || true ) && git checkout -b work $(REF)
 	@cp -f $</css/* ./css
-	@cp -f $</font/* ./font
+	@cp -f $</fonts/* ./fonts
 	@cp -f $</scss/* ./scss
 	@cp -f $</less/* ./less
 	@du -bh css* font* scss* less*
