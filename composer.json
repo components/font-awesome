@@ -10,9 +10,6 @@
         "robloach/component-installer": "*"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "3.2-dev"
-        },
         "component": {
             "styles": [
                 "css/font-awesome.css"
