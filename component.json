@@ -7,11 +7,11 @@
     "css/font-awesome.css"
   ],
   "files": [
-    "font/FontAwesome.otf",
-    "font/fontawesome-webfont.eot",
-    "font/fontawesome-webfont.svg",
-    "font/fontawesome-webfont.ttf",
-    "font/fontawesome-webfont.woff"
+    "fonts/FontAwesome.otf",
+    "fonts/fontawesome-webfont.eot",
+    "fonts/fontawesome-webfont.svg",
+    "fonts/fontawesome-webfont.ttf",
+    "fonts/fontawesome-webfont.woff"
   ],
   "license": [
     "MIT",
