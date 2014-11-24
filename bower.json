@@ -5,7 +5,10 @@
     "type": "git",
     "url": "git://github.com/components/font-awesome.git"
   },
-  "main": "css/font-awesome.css",
+  "main": [ 
+      "css/font-awesome.css",
+      "scss/font-awesome.scss"
+  ],
   "license": [
     "MIT",
     "OFL-1.1"
