@@ -5,11 +5,12 @@
     "type": "git",
     "url": "git://github.com/components/font-awesome.git"
   },
-  "main": [ 
+  "main": [
       "css/font-awesome.css",
       "scss/font-awesome.scss",
       "fonts/fontawesome-webfont.eot",
       "fonts/fontawesome-webfont.woff",
+      "fonts/fontawesome-webfont.woff2",
       "fonts/fontawesome-webfont.ttf",
       "fonts/fontawesome-webfont.svg"
   ],
