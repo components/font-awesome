@@ -7,9 +7,6 @@
         "OFL-1.1"
     ],
     "extra": {
-        "branch-alias": {
-            "dev-master": "4.4.x-dev"
-        },
         "component": {
             "styles": [
                 "css/font-awesome.css"
