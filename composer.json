@@ -13,6 +13,7 @@
             ],
             "files": [
                 "css/font-awesome.min.css",
+                "css/font-awesome.css.map",
                 "fonts/*"
             ]
         }
