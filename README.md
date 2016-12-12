@@ -22,7 +22,7 @@ Installation
 ##### Re-compile bower
 If using bower, do not forget to re-compile bower using `gulp bower`. Here is the sample code if you do not have one.
 
-```
+``` javascript
 // Update Foundation with Bower and save to /vendor
 gulp.task('bower', function() {
   return bower({ cmd: 'update'})
@@ -36,7 +36,7 @@ In the sample case we run function `gulp style` to combine all scss to css file 
 ##### Move font font folder
 Here is the **important part**, the default *font folder* is on different path with the compiled bower file. We need to move the font from default *font folder* to the *compiled bower folder* (In the example `vendor` is the compiled folder).
 
-```
+``` javascript
 // Move font-awesome fonts folder to css compiled folder
 gulp.task('icons', function() {
     return gulp.src('./vendor/components-font-awesome/fonts/**.*')
