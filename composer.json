@@ -1,20 +1,20 @@
 {
     "name": "components/font-awesome",
-    "description": "The iconic font designed for use with Twitter Bootstrap.",
+    "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
     "type": "component",
     "license": [
+        "CC-BY-4.0",
         "MIT",
         "OFL-1.1"
     ],
     "extra": {
         "component": {
             "styles": [
-                "css/font-awesome.css"
+                "css/fontawesome-all.css"
             ],
             "files": [
-                "css/font-awesome.min.css",
-                "css/font-awesome.css.map",
-                "fonts/*"
+                "css/fontawesome-all.min.css",
+                "webfonts/*"
             ]
         }
     }

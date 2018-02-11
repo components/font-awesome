@@ -1,21 +1,30 @@
 {
   "name": "font-awesome",
   "repo": "components/font-awesome",
-  "version": "4.7.0",
-  "description": "Font Awesome, the iconic font designed for use with Twitter Bootstrap.",
+  "version": "5.0.6",
+  "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
   "styles": [
-    "css/font-awesome.css"
+    "css/fontawesome-all.css"
   ],
   "files": [
-    "css/font-awesome.css.map",
-    "fonts/FontAwesome.otf",
-    "fonts/fontawesome-webfont.eot",
-    "fonts/fontawesome-webfont.svg",
-    "fonts/fontawesome-webfont.ttf",
-    "fonts/fontawesome-webfont.woff",
-    "fonts/fontawesome-webfont.woff2"
+    "webfonts/fa-brands-400.eot",
+    "webfonts/fa-brands-400.woff2",
+    "webfonts/fa-brands-400.woff",
+    "webfonts/fa-brands-400.ttf",
+    "webfonts/fa-brands-400.svg",
+    "webfonts/fa-regular-400.eot",
+    "webfonts/fa-regular-400.woff2",
+    "webfonts/fa-regular-400.woff",
+    "webfonts/fa-regular-400.ttf",
+    "webfonts/fa-regular-400.svg",
+    "webfonts/fa-solid-900.eot",
+    "webfonts/fa-solid-900.woff2",
+    "webfonts/fa-solid-900.woff",
+    "webfonts/fa-solid-900.ttf",
+    "webfonts/fa-solid-900.svg"
   ],
   "license": [
+    "CC-BY-4.0",
     "MIT",
     "OFL-1.1"
   ]
