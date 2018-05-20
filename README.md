@@ -39,7 +39,7 @@ Here is the **important part**, the default *font folder* is on different path w
 ``` javascript
 // Move font-awesome fonts folder to css compiled folder
 gulp.task('icons', function() {
-    return gulp.src('./vendor/components-font-awesome/fonts/**.*')
+    return gulp.src('./vendor/components-font-awesome/webfonts/**.*')
         .pipe(gulp.dest('./assets/fonts'));
 });
 ```
