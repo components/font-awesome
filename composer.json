@@ -10,10 +10,10 @@
     "extra": {
         "component": {
             "styles": [
-                "css/fontawesome-all.css"
+                "css/all.css"
             ],
             "files": [
-                "css/fontawesome-all.min.css",
+                "css/all.min.css",
                 "webfonts/*"
             ]
         }
