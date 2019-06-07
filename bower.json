@@ -6,7 +6,7 @@
     "url": "git://github.com/components/font-awesome.git"
   },
   "main": [
-    "css/fontawesome-all.css",
+    "css/all.css",
     "scss/fontawesome.scss",
     "webfonts/fa-brands-400.eot",
     "webfonts/fa-brands-400.woff2",
