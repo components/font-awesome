@@ -1,7 +1,7 @@
 {
   "name": "font-awesome",
   "repo": "components/font-awesome",
-  "version": "5.11.2",
+  "version": "5.12.0",
   "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
   "styles": [
     "css/all.css"
