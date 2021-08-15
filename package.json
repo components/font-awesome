@@ -1,7 +1,7 @@
 {
   "name": "components-font-awesome",
   "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
-  "version": "5.15.1",
+  "version": "5.15.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/components/font-awesome.git"
