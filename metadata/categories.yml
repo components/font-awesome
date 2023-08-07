@@ -1,6 +1,7 @@
 accessibility:
   icons:
     - accessible-icon
+    - address-card
     - audio-description
     - braille
     - circle-info
@@ -38,6 +39,7 @@ alert:
 alphabet:
   icons:
     - a
+    - address-card
     - b
     - c
     - circle-h
@@ -218,6 +220,7 @@ arrows:
   label: Arrows
 astronomy:
   icons:
+    - binoculars
     - globe
     - meteor
     - moon
@@ -506,6 +509,7 @@ charts-diagrams:
     - chart-line
     - chart-pie
     - chart-simple
+    - circle-half-stroke
     - diagram-next
     - diagram-predecessor
     - diagram-project
@@ -584,12 +588,14 @@ coding:
     - folder
     - folder-open
     - font-awesome
+    - gear
     - gears
     - keyboard
     - laptop-code
     - microchip
     - mug-saucer
     - network-wired
+    - notdef
     - qrcode
     - rectangle-xmark
     - shield
@@ -663,6 +669,7 @@ connectivity:
     - cloud
     - cloud-arrow-down
     - cloud-arrow-up
+    - ethernet
     - globe
     - house-signal
     - rss
@@ -812,7 +819,7 @@ disaster:
     - biohazard
     - bugs
     - burst
-    - child-rifle
+    - child-combatant
     - circle-radiation
     - cloud-bolt
     - cloud-showers-heavy
@@ -866,6 +873,7 @@ editing:
     - ellipsis-vertical
     - eye-dropper
     - eye-slash
+    - gear
     - grip
     - grip-lines
     - grip-lines-vertical
@@ -1377,7 +1385,7 @@ humanitarian:
     - car
     - car-on
     - car-tunnel
-    - child-rifle
+    - child-combatant
     - children
     - church
     - circle-h
@@ -1786,6 +1794,7 @@ maps:
     - martini-glass-empty
     - money-bill
     - money-bill-1
+    - monument
     - motorcycle
     - mountain-sun
     - mug-saucer
@@ -2075,6 +2084,7 @@ money:
   icons:
     - austral-sign
     - baht-sign
+    - bangladeshi-taka-sign
     - bitcoin
     - bitcoin-sign
     - brazilian-real-sign
@@ -2463,6 +2473,7 @@ shapes:
     - calendar
     - certificate
     - circle
+    - circle-half-stroke
     - cloud
     - clover
     - comment
@@ -3032,6 +3043,7 @@ writing:
     - folder-open
     - keyboard
     - newspaper
+    - notdef
     - note-sticky
     - paper-plane
     - paperclip
